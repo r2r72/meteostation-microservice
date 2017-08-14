@@ -1,0 +1,15 @@
+{
+	"ImportPath": "meteo_go",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "4008755e2387ddb91b0f3341e3631ed7a1e953d6"
+		},
+		{
+			"ImportPath": "github.com/mysql",
+			"Rev": "e4dbf48e6ddc508b3bece75b5b7584f14ab401c2"
+		}
+	]
+}
